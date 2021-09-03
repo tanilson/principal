@@ -1,4 +1,4 @@
-## Seja Bem Vindo(a)! Página Pessoal do prof Tanilson
+## Seja Bem Vindo(a)! Página Pessoal do prof Tanilson Dias
 
 Aqui eu posso inserir algumas informações sobre meu histórico como professor.
 
