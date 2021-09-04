@@ -4,7 +4,7 @@ Professor do Curso de Ciência da Computação - UFT. Doutor em Engenharia de Si
 
 ### Formação
 
-* 2017 - 2020: Doutorado em PESC - Programa de Engenharia de Sistemas e Computação (Conceito CAPES 7).
+* 2017 - 2020: **Doutorado em PESC - Programa de Engenharia de Sistemas e Computação (Conceito CAPES 7).**
   
   Universidade Federal do Rio de Janeiro, UFRJ, Brasil.
   
@@ -14,7 +14,7 @@ Professor do Curso de Ciência da Computação - UFT. Doutor em Engenharia de Si
 
   Coorientador: Uéverton dos Santos Souza.
 
-* 2012 - 2014: Mestrado em Sistemas e Computação (Conceito CAPES 3).
+* 2012 - 2014: **Mestrado em Sistemas e Computação (Conceito CAPES 3).**
 
   Instituto Militar de Engenharia, IME, Brasil.
 
@@ -22,9 +22,7 @@ Professor do Curso de Ciência da Computação - UFT. Doutor em Engenharia de Si
 
   Orientador: Claudia Marcela Justel.
 
-* 2007 - 2011
-
-  Graduação em Ciência da Computação.
+* 2007 - 2011: **Graduação em Ciência da Computação.**
 
   Universidade Federal do Tocantins, UFT, Brasil.
 
