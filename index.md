@@ -1,6 +1,28 @@
-## Seja Bem Vindo(a)! Página Pessoal do prof Tanilson Dias
+## Seja Bem Vindo(a), Eu sou Tanilson Dias...
 
 Professor do Curso de Ciência da Computação - UFT. Doutor em Engenharia de Sistemas e Computação pelo PESC/COPPE-UFRJ. Possui Mestrado em Sistemas e Computação pelo Instituto Militar de Engenharia (IME,2014). É também pesquisador da área de Teoria dos Grafos e Teoria da Computação. Possuo graduação em Ciência da Computação e tem interesse de estudo nas áreas de Inteligência Artificial, Grafos, Otimização e Autômatos. Participou, anteriormente, do projeto de futebol de robôs na liga de simulação 2D. Possuo Certificação Internacional em Teste de Qualidade de Software, em exame realizado pela BSTQB, no nível CTFL (Foudation Level).
+
+### Encontre-me nas redes sociais
+---
+
+<table>
+  <tr>
+    <td><img style="border-radius: 10%;" src="https://avatars.githubusercontent.com/u/4447627?s=400&v=4" width="100px;" alt="" />      
+     </td>
+     <td> 
+     Tanilson Dias também está nas redes socias :computer:  :mailbox_with_mail:
+      <br>Entre em contato!  
+     
+[![Twitter Badge](https://img.shields.io/badge/-@TANILSON_DIAS-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TANILSON_DIAS)](https://twitter.com/TANILSON_DIAS) [![Linkedin Badge](https://img.shields.io/badge/-Tanilson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanilson-santos-70494a27/)](https://www.linkedin.com/in/tanilson-santos-70494a27/) 
+[![Gmail Badge](https://img.shields.io/badge/-tanilson.dias@uft.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanilson.dias@uft.edu.br)](mailto:tanilson.dias@uft.edu.br)
+</td>
+
+  </tr>
+ 
+ </table>
+
+
+---
 
 ### Formação
 
