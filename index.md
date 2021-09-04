@@ -1,7 +1,9 @@
 ## Seja Bem Vindo(a), Eu sou Tanilson Dias...
 
+<p align='justify'>
 Professor do Curso de Ciência da Computação - UFT. Doutor em Engenharia de Sistemas e Computação pelo PESC/COPPE-UFRJ. Possui Mestrado em Sistemas e Computação pelo Instituto Militar de Engenharia (IME,2014). É também pesquisador da área de Teoria dos Grafos e Teoria da Computação. Possuo graduação em Ciência da Computação e tem interesse de estudo nas áreas de Inteligência Artificial, Grafos, Otimização e Autômatos. Participou, anteriormente, do projeto de futebol de robôs na liga de simulação 2D. Possuo Certificação Internacional em Teste de Qualidade de Software, em exame realizado pela BSTQB, no nível CTFL (Foudation Level).
-
+</p>
+  
 ### Encontre-me nas redes sociais
 ---
 
