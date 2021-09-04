@@ -7,16 +7,15 @@ Professor do Curso de Ciência da Computação - UFT. Doutor em Engenharia de Si
   
 ### Encontre-me nas redes sociais
 ---
+  
+![](https://avatars.githubusercontent.com/u/4447627?s=100&v=4)
 
-| ![](https://avatars.githubusercontent.com/u/4447627?s=100&v=4) |
-|:--:|
-|[![Twitter Badge](https://img.shields.io/badge/-@TANILSON_DIAS-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TANILSON_DIAS)](https://twitter.com/TANILSON_DIAS) 
+[![Twitter Badge](https://img.shields.io/badge/-@TANILSON_DIAS-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TANILSON_DIAS)](https://twitter.com/TANILSON_DIAS) 
 [![Linkedin Badge](https://img.shields.io/badge/-Tanilson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanilson-santos-70494a27/)](https://www.linkedin.com/in/tanilson-santos-70494a27/) 
-[![Gmail Badge](https://img.shields.io/badge/-tanilson.dias@uft.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanilson.dias@uft.edu.br)](mailto:tanilson.dias@uft.edu.br)|
+[![Gmail Badge](https://img.shields.io/badge/-tanilson.dias@uft.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanilson.dias@uft.edu.br)](mailto:tanilson.dias@uft.edu.br)
 
 
-
-
+<!-- 
 <table>
   <tr>
     <td><img style="border-radius: 10%;" src="https://avatars.githubusercontent.com/u/4447627?s=400&v=4" width="100px;" alt="" />      
@@ -28,11 +27,9 @@ Professor do Curso de Ciência da Computação - UFT. Doutor em Engenharia de Si
 [![Twitter Badge](https://img.shields.io/badge/-@TANILSON_DIAS-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TANILSON_DIAS)](https://twitter.com/TANILSON_DIAS) [![Linkedin Badge](https://img.shields.io/badge/-Tanilson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanilson-santos-70494a27/)](https://www.linkedin.com/in/tanilson-santos-70494a27/) 
 [![Gmail Badge](https://img.shields.io/badge/-tanilson.dias@uft.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanilson.dias@uft.edu.br)](mailto:tanilson.dias@uft.edu.br)
 </td>
-
-  </tr>
- 
+  </tr> 
  </table>
-
+-->
 
 ---
 
