@@ -5,19 +5,17 @@
 Professor do Curso de Ciência da Computação - UFT. Doutor em Engenharia de Sistemas e Computação pelo PESC/COPPE-UFRJ. Possui Mestrado em Sistemas e Computação pelo Instituto Militar de Engenharia (IME,2014). É também pesquisador da área de Teoria dos Grafos e Teoria da Computação. Possuo graduação em Ciência da Computação e tem interesse de estudo nas áreas de Inteligência Artificial, Grafos, Otimização e Autômatos. Participou, anteriormente, do projeto de futebol de robôs na liga de simulação 2D. Possuo Certificação Internacional em Teste de Qualidade de Software, em exame realizado pela BSTQB, no nível CTFL (Foudation Level).
 </p>
   
-  Referência para construir um readme.md: https://github.com/Prof-Rodrigo-Silva
+  🔗 [Currículo Lattes](http://lattes.cnpq.br/2812244463844431)
   
   
 ### Encontre-me nas redes sociais
 ---
   
 ![](https://avatars.githubusercontent.com/u/4447627?s=100&v=4)
-
-[![Twitter Badge](https://img.shields.io/badge/-@TANILSON_DIAS-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TANILSON_DIAS)](https://twitter.com/TANILSON_DIAS) 
+ [![Twitter Badge](https://img.shields.io/badge/-@TANILSON_DIAS-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TANILSON_DIAS)](https://twitter.com/TANILSON_DIAS) 
 [![Linkedin Badge](https://img.shields.io/badge/-Tanilson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanilson-santos-70494a27/)](https://www.linkedin.com/in/tanilson-santos-70494a27/) 
-
 [![Gmail Badge](https://img.shields.io/badge/-tanilson.dias@uft.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanilson.dias@uft.edu.br)](mailto:tanilson.dias@uft.edu.br)
-[![Lattes Badge](https://img.shields.io/badge/-Tanilson-blue?style=flat-square&logo=Lattes&logoColor=white&link=http://lattes.cnpq.br/2812244463844431)](http://lattes.cnpq.br/2812244463844431) 
+
 
 
 <!-- 
@@ -67,6 +65,11 @@ Professor do Curso de Ciência da Computação - UFT. Doutor em Engenharia de Si
   Orientador: Alexandre Tadeu Rossini da Silva.
 
 
+---
+
+
+
+
 ```markdown
 Syntax highlighted code block
 
@@ -94,3 +97,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Publicações
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## Materiais de Aula :books: :mortar_board:
+
+### Curso Lógica de Progamação 
+- [Materiais](https://...)
+- [Aulas](https://...)
+
+### Exercícios 
+
